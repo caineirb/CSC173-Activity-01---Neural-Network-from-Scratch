@@ -100,7 +100,7 @@ Computes the absolute difference between malignant and benign feature means to i
 
 - Decision Boundary for New Data Points
 
-![Decision Boundary for New Data Points](image.png)
+![Decision Boundary for New Data Points](images/image-5.png)
 ## Key Results
 Based on the analysis of the **Wisconsin Diagnostic Breast Cancer dataset**, the features **`concave_points3`** and **`perimeter3`** were observed to be the most predictive for distinguishing between Malignant and Benign diagnoses using several statistical methods. After **normalizing** these features, **balancing** the dataset through undersampling, and splitting it into **80% training** and **20% testing** sets, a simple neural network was trained from scratch. This network, configured with **4 hidden neurons**, **sigmoid activation**, a learning rate of **0.05**, and trained for **1000 epochs**, demonstrated effective learning, as seen by the decreasing loss curve. It achieved a notable accuracy of **94.19%** on the unseen test data. The decision boundary visualization confirmed the model's ability to separate the classes in the feature space, and it successfully predicted outcomes for new, synthetic data points.
 ## Team Collaboration
