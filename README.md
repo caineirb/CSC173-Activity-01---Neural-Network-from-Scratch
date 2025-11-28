@@ -1,7 +1,7 @@
 # CSC173 Activity 01 - Neural Network from Scratch
 
 **Date:** October 09, 2025  
-**Team:** [Group Name or Members]
+**Team:** Caine Ivan Bautista and Jemar John Lumingkit
 
 ## Project Overview
 
